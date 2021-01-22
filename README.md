@@ -1,41 +1,16 @@
-### Hi, i'm Marcos 👋
+<h1 align="center">Hi 👋, I'm Marcos</h1>
+<h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m Ruby on Rails Developer at <a href="http://www.youse.com.br">Youse</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mvbvieira&label=Profile%20views&color=0e75b6&style=flat" alt="mvbvieira" /> </p>
+
+- 🔭 I’m Ruby on Rails Developer at <a href="http://www.youse.com.br"> **youse**</a>
 - 🌱 I’m currently learning FrontEnd and BigData/DataEngineering
 - 👯 I’m looking to collaborate on open-source projects
 
-## 💬 Contact me
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mavbvieira/)](https://www.linkedin.com/in/mavbvieira/)
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Databases-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
-
-## 🌱 I’m currently learning
-
-
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/mvbvieira/mvbvieira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvbvieira&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mavbvieira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mavbvieira/" height="30" width="40" /></a>
+</p>
 
 <!--
 **mvbvieira/mvbvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
