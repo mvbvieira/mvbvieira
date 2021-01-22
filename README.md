@@ -2,6 +2,9 @@
 
 Ruby on Rails Developer at <a href="http://www.youse.com.br">Youse</a>
 
+- 🌱 I’m currently learning FrontEnd and BigData/DataEngineering
+- 👯 I’m looking to collaborate on open-source projects
+
 ## 💬 Contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mavbvieira/)](https://www.linkedin.com/in/mavbvieira/)
@@ -15,6 +18,8 @@ Ruby on Rails Developer at <a href="http://www.youse.com.br">Youse</a>
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Databases-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
@@ -22,6 +27,10 @@ Ruby on Rails Developer at <a href="http://www.youse.com.br">Youse</a>
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
+
+## 🌱 I’m currently learning
+
+
 
 ## &#x1f4c8; GitHub Stats
 
