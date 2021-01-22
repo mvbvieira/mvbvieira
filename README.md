@@ -43,6 +43,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mvbvieira&" alt="mvbvieira" /></p>
 
+<a href="https://github.com/mvbvieira/mvbvieira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvbvieira&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 <!--
 **mvbvieira/mvbvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
