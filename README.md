@@ -1,7 +1,6 @@
 ### Hi, i'm Marcos 👋
 
-Ruby on Rails Developer at <a href="http://www.youse.com.br">Youse</a>
-
+- 🔭 I’m Ruby on Rails Developer at <a href="http://www.youse.com.br">Youse</a>
 - 🌱 I’m currently learning FrontEnd and BigData/DataEngineering
 - 👯 I’m looking to collaborate on open-source projects
 
